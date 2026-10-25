@@ -71,7 +71,8 @@ Envoie l'un des messages d'exemple ci-dessus. La réponse doit suivre la structu
 |---|---|
 | `SKILL.md` | Les instructions : nom, description de déclenchement, démarche et format de sortie. |
 | `README.md` | Cette page, pour les humains (Claude ne la lit pas). |
+| `LICENSE` | Licence MIT. |
 
 ## Licence
 
-Aucune licence n'est encore indiquée dans ce dépôt ; ajoute un fichier `LICENSE` avant de le réutiliser ou de le partager.
+MIT, voir [LICENSE](LICENSE).
